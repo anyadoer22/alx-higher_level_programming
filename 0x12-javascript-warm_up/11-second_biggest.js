@@ -9,4 +9,3 @@ if (argv.length <= 3) {
   newArgv.sort((a, b) => b - a);
   console.log(newArgv[1]);
 }
-
